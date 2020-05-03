@@ -1,0 +1,28 @@
+.fg-white {color: #fff;}
+.fg-cloud {color: #ecf0f1;}
+body.klein {}
+body.klein .vc_progress_bar .vc_single_bar .vc_label {display: inline-block;background: #2ecc71;text-shadow: none;-webkit-text-shadow: none;-moz-text-shadow: none;margin: 10px;color: #ecf0f1;-webkit-border-radius: 40px;-moz-border-radius: 40px;border-radius: 40px;}
+body.klein .vc_progress_bar .vc_single_bar {background-color: #e8e8e8;-webkit-box-shadow: none;box-shadow: none;}
+body.klein .vc_line-chart .vc_chart-legend {width: 100%;}
+body.klein .vc_chart .vc_chart-legend span {border-radius: 50%;position: absolute;}
+body.klein .vc_chart .vc_chart-legend li {text-transform: capitalize;max-width: 100%;word-break: normal;word-wrap: inherit;position: relative;padding-left: 25px;margin-top: 10px;}
+body.klein .vc_toggle_title h4 {font-size: 20px;font-weight: 400;font-style: italic;}
+body.klein .vc_toggle_content {background: #ecf0f1;padding: 25px 25px 10px 25px;border-radius: 4px;}
+body.klein .wpb_content_element .wpb_tabs_nav li.ui-tabs-active, body.klein .wpb_content_element .wpb_tabs_nav li:hover, body.klein .wpb_content_element .wpb_accordion_wrapper .wpb_accordion_header, body.klein .wpb_content_element.wpb_tabs .wpb_tour_tabs_wrapper .wpb_tab {background: #ecf0f1;}
+body.klein .wpb_content_element.wpb_tabs .wpb_tour_tabs_wrapper .wpb_tab {padding: 25px;}
+body.klein .wpb_content_element .wpb_tour_tabs_wrapper .wpb_tabs_nav a, body.klein .wpb_content_element .wpb_accordion_header a {padding: 20px;color: #95a5a6;font-size: 18px;font-style: italic;}
+body.klein .wpb_tour .wpb_tour_tabs_wrapper .wpb_tab {padding: 25px;background: #ecf0f1;}
+body.klein .vc_general.vc_tta.vc_tta-style-outline .vc_tta-panel-body {border-width: 2px;border-bottom-width: 0;}
+body.klein .wpb_accordion .wpb_accordion_wrapper .ui-state-default .ui-icon, body.klein .wpb_accordion .wpb_accordion_wrapper .ui-state-active .ui-icon {top: 25px;right: 25px;}
+body.klein .vc_separator.vc_separator_align_center h4 {padding: 10px 20px;background: #ecf0f1;font-weight: normal;font-style: italic;}
+body.klein .vc_button-2-wrapper {display: inline;}
+body.klein .wpb_call_to_action .wpb_call_text, body.klein #content .wpb_call_to_action .wpb_call_text, body.klein .vc_call_to_action h4.wpb_heading {font-size: 22px;font-style: italic;font-weight: normal;margin-top: 20px;}
+body.klein .wpb_call_to_action .wpb_call_text, body.klein #content .wpb_call_to_action .wpb_call_text {margin-top: 0;}
+body.klein .wpb_call_text {font-size: 16px;}
+body.klein .wpb_call_to_action {background-color: #ecf0f1;border: none;}
+body.klein h2.widgettitle {top: -50px;margin-left: 0;}
+body.klein .vc_gitem-post-data h4 {padding-top: 15px;}
+body.klein .flexslider {overflow: hidden;}
+body.klein .vc_tta.vc_general {border-radius: 5px;}
+body.klein .vc_tta.vc_tta-style-modern .vc_tta-tab > a {border-width: 0;}
+body.klein .vc_tta.vc_tta-spacing-1 .vc_tta-tabs-list {margin-bottom: 1px;}

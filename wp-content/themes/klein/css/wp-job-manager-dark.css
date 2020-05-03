@@ -1,0 +1,12 @@
+#job-manager-job-dashboard table tr:nth-child(even), body div.mce-panel, ul.job_listings li.job_listing a:hover {background-color: transparent;}
+.chosen-container-multi .chosen-choices li.search-choice {background: #222;}
+ul.job_listings li.job_listing:nth-child(odd), body div.mce-toolbar-grp, .entry-content .job_listing_preview_title, .job_listing_preview_title, .job-manager-error, .job-manager-info, .job-manager-message, .job_summary_shortcode {background: #333;}
+ul.job_listings li.job_listing a:hover, ul.job_listings li.job_listing a:focus, .job_filters, .job_filters .job_types, .job_filters .showing_jobs, body .mce-toolbar .mce-btn-group .mce-btn:hover, ul.job_listings li.job_listing, .job_summary_shortcode {background: #444;}
+.mce-btn-group:not(:first-child), .mce-toolbar .mce-btn-group .mce-btn:hover, ul.job_listings li.job_listing, .widget ul.job_listings li.job_listing {border-color: #222 !important;}
+.job_filters .job_types, .job_filters .job_types li, .job_filters .showing_jobs, ul.job_listings.loading, .job-manager-form fieldset, table.job-manager-jobs, div.mce-toolbar-grp, div.mce-statusbar, .job_listing_preview, .chosen-container.chosen-container-multi ul.chosen-choices, ul.job_listings li.no_job_listings_found.no_job_listings_found, .job-manager-jobs tr {border-color: #333 !important;}
+.job-manager-application-wrapper .application .application_details:after, .single_job_listing .application .application_details:after, .job-manager-application-wrapper .application .application_details:before, .single_job_listing .application .application_details:before {border-bottom-color: #444;}
+ul.job_listings, ul.job_listings li.job_listing, .single_job_listing .company, .job_summary_shortcode, .job-manager-application-wrapper .application .application_details, .single_job_listing .application .application_details {border-color: #444;}
+.chosen-container-multi .chosen-choices li.search-choice {box-shadow: none;}
+body .mce-toolbar .mce-btn-group .mce-btn:hover {-webkit-box-shadow: inset 0 1px 0 #333,0 1px 0 rgba(0,0,0,.08);box-shadow: inset 0 1px 0 #333,0 1px 0 rgba(0,0,0,.08);}
+body.klein .widget ul.job_listings li.job_listing a {padding: 1em;}
+@media only screen and (max-width: 768px) {.widget ul.job_listings li.job_listing ul.meta .location:before {left: 14px;}}

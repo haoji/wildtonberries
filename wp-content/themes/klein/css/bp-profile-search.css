@@ -1,0 +1,45 @@
+.field_drop-down-select-box select {padding: 0px 10px;}
+.radio, .checkbox {margin-top: 0px;}
+body .checkbox {margin-bottom: 10px;}
+.bps_filters a:hover, .bps_filters a:focus, .job_filters a.rss_link:hover, .job_filters a.rss_link:focus, .job_filters a.reset:hover, .job_filters a.reset:focus {opacity: .87;}
+.bps-inline {width: 100%;}
+.bps-inline div {display: inline-table;width: 28%;margin-right: 5%;margin-bottom: 1%;}
+.bps-inline div.submit {display: block;width: 100%;}
+.bps-inline .checkbox span.label, .bps-inline .field_multi-select-box>label, .bps-inline .field_drop-down-select-box label, .bps-inline .field_text-box label, .bps-inline .field_url label, .bps-inline .field_date-selector>label, .bps-inline .field_multi-line-text-area>label, .bps-inline .radio>span, .bps-inline .field_number>label {padding-left: 0;font-style: normal;font-weight: normal;text-align: left;display: block;}
+.bps-inline .radio {margin: 0;}
+.bps-inline .radio div {width: 100%;margin: 0;display: block;}
+.bps-inline .field_checkboxes p.description, .bps-inline .field_drop-down-select-box p.description, .bps-inline .field_multi-select-box p.description, .bps-inline .field_radio-buttons p.description, .bps-inline .field_date-selector p.description, .bps-inline .field_multi-line-text-area p.description, .bps-inline .field_number p.description, .bps-inline .field_text-box p.description, .bps-inline .field_url p.description {font-style: italic;color: #999;}
+.bps-inline .field_radio-buttons p.description {margin-top: 20px;}
+.widget .bps-inline {width: 100%;}
+.widget .bps-inline div {display: block;width: 100%;margin-right: 5%;margin-bottom: 5%;}
+.bps-inline .checkbox span.label, .bps-inline .field_multi-select-box>label, .bps-inline .field_drop-down-select-box label, .bps-inline .field_text-box label, .bps-inline .field_url label, .bps-inline .field_date-selector>label, .bps-inline .field_multi-line-text-area>label, .bps-inline .radio>span, .bps-inline .field_number>label {padding-left: 0;font-style: normal;font-weight: normal;text-align: left;display: block;}
+.bps-inline .radio {margin: 0;}
+.bps-inline .radio div {width: 100%;margin: 0;display: block;}
+.bps-inline .field_checkboxes p.description, .bps-inline .field_drop-down-select-box p.description, .bps-inline .field_multi-select-box p.description, .bps-inline .field_radio-buttons p.description, .bps-inline .field_date-selector p.description, .bps-inline .field_multi-line-text-area p.description, .bps-inline .field_number p.description, .bps-inline .field_text-box p.description, .bps-inline .field_url p.description {font-style: italic;color: #999;}
+.bps-inline .field_radio-buttons p.description {margin-top: 20px;}
+.bps-inline  .checkbox label, .bps-inline  .radio label {line-height: 18px;}
+.bps-inline div.submit {margin-bottom: 0;}
+.bps-boxed .checkbox span.label, .bps-boxed .field_multi-select-box>label, .bps-boxed .field_date-selector>label, .bps-boxed .field_multi-line-text-area>label, .bps-boxed .radio>span, .bps-boxed .field_number>label {padding-left: 0;font-style: normal;font-weight: normal;text-align: left;display: block;}
+.bps-boxed .field_checkboxes p.description, .bps-boxed .field_drop-down-select-box p.description, .bps-boxed .field_multi-select-box p.description, .bps-boxed .field_radio-buttons p.description, .bps-boxed .field_date-selector p.description, .bps-boxed .field_multi-line-text-area p.description, .bps-boxed .field_number p.description, .bps-boxed .field_text-box p.description, .bps-boxed .field_url p.description {font-style: italic;color: #999;}
+.bps-boxed  .checkbox label, .bps-boxed  .radio label {line-height: 18px;}
+.bps-boxed .editfield {margin-bottom: 15px;}
+.widget .checkbox span.label, .widget .field_multi-select-box>label, .widget .field_date-selector>label, .widget .field_multi-line-text-area>label, .widget .radio>span, .widget .field_number>label {padding-left: 0;font-style: normal;text-align: left;display: block;}
+.widget .checkbox label, .widget .radio label {line-height: 18px;}
+.widget .checkbox label input[type="checkbox"] {}
+.widget .field_checkboxes p.description, .widget .field_drop-down-select-box p.description, .widget .field_multi-select-box p.description, .widget .field_radio-buttons p.description, .widget .field_date-selector p.description, .widget .field_multi-line-text-area p.description, .widget .field_number p.description, .widget .field_text-box p.description, .widget .field_url p.description {font-style: italic;color: #999;}
+#bps_widget-4-footer-1 .field_checkboxes p.description, #bps_widget-4-footer-1 .field_drop-down-select-box p.description, #bps_widget-4-footer-1 .field_multi-select-box p.description, #bps_widget-4-footer-1 .field_radio-buttons p.description, #bps_widget-4-footer-1 .field_date-selector p.description, #bps_widget-4-footer-1 .field_multi-line-text-area p.description, #bps_widget-4-footer-1 .field_number p.description, #bps_widget-4-footer-1 .field_text-box p.description, #bps_widget-4-footer-1 .field_url p.description, #bps_widget-5-footer-2 .field_checkboxes p.description, #bps_widget-5-footer-2 .field_drop-down-select-box p.description, #bps_widget-5-footer-2 .field_multi-select-box p.description, #bps_widget-5-footer-2 .field_radio-buttons p.description, #bps_widget-5-footer-2 .field_date-selector p.description, #bps_widget-5-footer-2 .field_multi-line-text-area p.description, #bps_widget-5-footer-2 .field_number p.description, #bps_widget-5-footer-2 .field_text-box p.description, #bps_widget-5-footer-2 .field_url p.description, #bps_widget-6-footer-3 .field_checkboxes p.description, #bps_widget-6-footer-3 .field_drop-down-select-box p.description, #bps_widget-6-footer-3 .field_multi-select-box p.description, #bps_widget-6-footer-3 .field_radio-buttons p.description, #bps_widget-6-footer-3 .field_date-selector p.description, #bps_widget-6-footer-3 .field_multi-line-text-area p.description, #bps_widget-6-footer-3 .field_number p.description, #bps_widget-6-footer-3 .field_text-box p.description, #bps_widget-6-footer-3 .field_url p.description, #bps_widget-7-footer-4 .field_checkboxes p.description, #bps_widget-7-footer-4 .field_drop-down-select-box p.description, #bps_widget-7-footer-4 .field_multi-select-box p.description, #bps_widget-7-footer-4 .field_radio-buttons p.description, #bps_widget-7-footer-4 .field_date-selector p.description, #bps_widget-7-footer-4 .field_multi-line-text-area p.description, #bps_widget-7-footer-4 .field_number p.description, #bps_widget-7-footer-4 .field_text-box p.description, #bps_widget-7-footer-4 .field_url p.description {color: #ddd;}
+#footer-widgets input {color: #fff;}
+#footer-widgets select {color: #999;}
+body.klein .job_filters a.reset, body.klein .job_filters a.rss_link {margin-top: 0;}
+body.klein .job_filters a.reset {margin-left: 10px;}
+body.klein  .showing_jobs {padding: 1em 1em;height: 55px;}
+.widget a.clear-value, a.clear-value, .job_filters a.reset, .job_filters a.rss_link {color: #fff;padding: 4px 12px;display: inline-block;-moz-border-radius: 50px;-webkit-border-radius: 50px;border-radius: 50px;background: #27ae60;margin-top: 10px;}
+.widget a.clear-value:hover, a.clear-value {opacity: .87;}
+@media only screen and (max-width: 760px), (max-width: 993px),
+(min-device-width: 768px) and (max-device-width: 1024px) {div#primary {left: 0;width: 100%;}
+	div#secondary {right: 0;width: 100%;}
+	.widget .bps-inline div {display: block;width: 100%;margin-right: 0%;margin-bottom: 5%;}
+	.bps-inline div {display: block;width: 100%;margin-right: 0%;margin-bottom: 5%;}
+	body .checkbox, body .radio {margin-bottom: 10px;}
+	body .widget .checkbox, body .widget .radio {margin-bottom: 15px;}
+	body .widget .radio>div {margin-bottom: 0;}}
